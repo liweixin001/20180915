@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cartdamo/cartdamo.iml" filepath="$PROJECT_DIR$/cartdamo/cartdamo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gouwuche/gouwuche.iml" filepath="$PROJECT_DIR$/gouwuche/gouwuche.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liweixin1603B20180820.iml" filepath="$PROJECT_DIR$/liweixin1603B20180820.iml" />
+    </modules>
+  </component>
+</project>
